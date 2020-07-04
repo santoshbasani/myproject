@@ -1,17 +1,5 @@
-Shell moulding, also known as shell-mould casting,[1] is an expendable mold casting process that uses resin covered sand to form the mold. As compared to sand casting, this process has better dimensional accuracy, a higher productivity rate, and lower labor requirements. It is used for small to medium parts that require high precision.[2] Shell molding was developed as a manufacturing process during the mid-20th century in Germany. It was invented by German engineer Johannes Croning[3][4]. Shell mold casting is a metal casting process similar to sand casting, in that molten metal is poured into an expendable mold. However, in shell mold casting, the mold is a thin-walled shell created from applying a sand-resin mixture around a pattern. The pattern, a metal piece in the shape of the desired part, is reused to form multiple shell molds. A reusable pattern allows for higher production rates, while the disposable molds enable complex geometries to be cast. Shell mold casting requires the use of a metal pattern, oven, sand-resin mixture, dump box, and molten metal.
+dkadjalkdjslajdladlal
 
-Shell mold casting allows the use of both ferrous and non-ferrous metals, most commonly using cast iron, carbon steel, alloy steel, stainless steel, aluminum alloys, and copper alloys. Typical parts are small-to-medium in size and require high accuracy, such as gear housings, cylinder heads, connecting rods, and lever arms.
 
-The shell mold casting process consists of the following steps:
-
-Pattern creation - A two-piece metal pattern is created in the shape of the desired part, typically from iron or steel. Other materials are sometimes used, such as aluminum for low volume production or graphite for casting reactive materials.
-
-Mold creation - First, each pattern half is heated to 175-370 °C (350-700 °F) and coated with a lubricant to facilitate removal. Next, the heated pattern is clamped to a dump box, which contains a mixture of sand and a resin binder. The dump box is inverted, allowing this sand-resin mixture to coat the pattern. The heated pattern partially cures the mixture, which now forms a shell around the pattern. Each pattern half and surrounding shell is cured to completion in an oven and then the shell is ejected from the pattern.
-
-Mold assembly - The two shell halves are joined together and securely clamped to form the complete shell mold. If any cores are required, they are inserted prior to closing the mold. The shell mold is then placed into a flask and supported by a backing material.
-
-Pouring - The mold is securely clamped together while the molten metal is poured from a ladle into the gating system and fills the mold cavity.
-
-Cooling - After the mold has been filled, the molten metal is allowed to cool and solidify into the shape of the final casting.
-
-Casting removal - After the molten metal has cooled, the mold can be broken and the casting removed. Trimming and cleaning processes are required to remove any excess metal from the feed system and any sand from the mold.
+adajkldfjakljdlfkajlkf
+akdklajflkjaldjfaljf
