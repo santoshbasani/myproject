@@ -1,0 +1,9 @@
+The process of creating a shell mold consists of six steps:[2][5]
+
+Fine silica sand that is covered in a thin (3–6%) thermosetting phenolic resin and liquid catalyst is dumped, blown, or shot onto a hot pattern. The pattern is usually made from cast iron and is heated to 230 to 315 °C (450 to 600 °F). The sand is allowed to sit on the pattern for a few minutes to allow the sand to partially cure.
+The pattern and sand are then inverted so the excess sand drops free of the pattern, leaving just the "shell". Depending on the time and temperature of the pattern the thickness of the shell is 10 to 20 mm (0.4 to 0.8 in).
+The pattern and shell together are placed in an oven to finish curing the sand. The shell now has a tensile strength of 350 to 450 psi (2.4 to 3.1 MPa).
+The hardened shell is then stripped from the pattern.
+Two or more shells are then combined, via clamping or gluing using a thermoset adhesive, to form a mold. This finished mold can then be used immediately or stored almost indefinitely.
+For casting the shell mold is placed inside a flask and surrounded with shot, sand, or gravel to reinforce the shell.[6][7]
+The machine that is used for this process is called a shell molding machine. It heats the pattern, applies the sand mixture, and bakes the shell.

@@ -1,0 +1,19 @@
+Advantages
+Shell molding can be completely automated for mass production.[2]
+The high productivity, low labor costs, good surface finishes, and precision of the process can more than pay for itself if it reduces machining costs.
+There are few problems due to gases, because of the absence of moisture in the shell, and the little gas that is still present easily escapes through the thin shell. When the metal is poured some of the resin binder burns out on the surface of the shell, which makes shaking out easy.[1][5]
+Complex shapes and fine details can be formed with very good surface finish, high production rate, low labor cost (if automated).
+Low tooling cost, Little scrap generated.
+Very large parts and complex shapes can be produced.
+Many material options.
+Low tooling and equipment cost.
+Scrap can be recycled.
+Short lead time possible.
+Disadvantages
+The gating system must be part of the pattern because the entire mold is formed from the pattern, which can be expensive.
+The resin for the sand is expensive, although not much is required because only a shell is being formed.[5]
+High equipment cost.
+Poor material strength.
+High porosity possible.
+Secondary machining often required.
+High labor cost if done manually.
